@@ -1,1 +1,3 @@
-ols hello
+function batata() {
+  print("batata");
+}
